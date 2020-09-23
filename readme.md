@@ -69,7 +69,8 @@ SSE: 755.5589531518674
 ![Screenshot](BestFit.png)
  
 
-###Results:
+Results:
+-----------------
 We simulate price changes of the underlying TGT stock from this distribution
 to analyze a daily delta hedge at market close. 
 
